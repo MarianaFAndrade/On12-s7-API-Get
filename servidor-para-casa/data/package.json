@@ -1,0 +1,16 @@
+{
+  "name": "data",
+  "version": "1.0.0",
+  "description": "Meu primeiro Servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "start",
+    "start": "nodemon server.js"
+  },
+  "author": "Mariana Andrade",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
